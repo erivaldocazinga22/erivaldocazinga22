@@ -1,6 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is **Erivaldo Caginga**
-
-=======================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Erivaldo+Cazinga+22;I'm+20+years+old;I+am+from+Angola,Luanda;)](https://git.io/typing-svg)
 
 Software Developer
 ------------------
@@ -56,8 +54,8 @@ Software Developer
             width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html"
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
-            width="36" height="36" alt="XD" /></a>
-</p>
+            width="36" height="36" alt="XD" /></p>
+
 
 ### Others 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -80,17 +78,19 @@ Software Developer
           </picture>
       </a>
       <a href="https://www.instagram.com/cazarth_designer/" target="_blank" rel="noreferrer">
-          <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/follow-us-on-instagram-icon.png" width="32" height="32" />
-          </picture>
+          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/follow-us-on-instagram-icon.png" width="125" height="32" />
       </a>
   </p>
 
 
 ### Badges <b>My GitHub Stats</b>
-  <a href="http://www.github.com/erivaldocazinga22"><img src="https://github-readme-stats.vercel.app/api?username=erivaldocazinga22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erivaldocazinga22's GitHub stats" /></a>
+  <p align="center">
+    <a href="http://www.github.com/erivaldocazinga22"><img src="https://github-readme-stats.vercel.app/api?username=erivaldocazinga22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erivaldocazinga22's GitHub stats" /></a>
+<a href="http://www.github.com/manuelbento19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelbento19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </p>
 
-  <a href="https://github.com/erivaldocazinga22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivaldocazinga22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erivaldocazinga22}/count.svg" /></p> 
+<br></div>
