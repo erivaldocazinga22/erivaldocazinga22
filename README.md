@@ -32,9 +32,6 @@ Software Developer
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
             width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank"
         rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-            width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank"
-        rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
             width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank"
         rel="noreferrer"><img
@@ -51,10 +48,7 @@ Software Developer
             width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-            width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html"
-        target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
-            width="36" height="36" alt="XD" /></p>
+            width="36" height="36" alt="Figma" /></a></p>
 
 
 ### Others 
