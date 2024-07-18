@@ -55,26 +55,10 @@ Software Developer
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Socials
-
-  <p align="left">
-      <a href="https://www.github.com/erivaldocazinga22" target="_blank" rel="noreferrer">
-          <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-          </picture>
-      </a>
-      <a href="https://www.linkedin.com/in/erivaldo-cazinga-367004282/" target="_blank" rel="noreferrer">
-          <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-          </picture>
-      </a>
-      <a href="https://www.instagram.com/cazarth_designer/" target="_blank" rel="noreferrer">
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/follow-us-on-instagram-icon.png" width="125" height="32" />
-      </a>
-  </p>
+<div> 
+  <a href="https://www.instagram.com/cazarth_designer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erivaldo-cazinga-367004282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 ### Badges <b>My GitHub Stats</b>
