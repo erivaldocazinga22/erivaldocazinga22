@@ -13,7 +13,7 @@ Olá! Eu sou **Erivaldo Cazinga**, um desenvolvedor de software apaixonado, espe
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-054F77C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Habilidades de Backend  
