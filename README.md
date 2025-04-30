@@ -44,6 +44,6 @@ Olá! Eu sou **Erivaldo Cazinga**, um desenvolvedor de software apaixonado, espe
 
 <p align="left">
   <a href="https://www.instagram.com/cazarth_designer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/erivaldo-cazinga-367004282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/erivaldo-caginga-367004282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://erivaldocaginga22.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
 </p>
