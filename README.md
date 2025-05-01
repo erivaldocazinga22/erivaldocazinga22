@@ -38,6 +38,8 @@ Olá! Eu sou **Erivaldo Cazinga**, um desenvolvedor de software apaixonado, espe
     style="max-width: 100%; height: auto;" 
   />
 </a>
+
+<a href="http://www.github.com/erivaldocazinga22"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivaldocazinga22&theme=dark&hide_border=true" alt="Principais Linguagens do GitHub de Erivaldo Cazinga" width="100%" height="300" /></a>
 </p>
 
 <div align="center">
