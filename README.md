@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Erivaldo+Cazinga;Sou+um+Desenvolvedor+de+Software;Especializando-me+em+JavaScript+e+TypeScript)](https://git.io/typing-svg)
 
-🚀## Sobre Mim
+🚀Sobre Mim
 
 Olá! Sou o Erivaldo Cazinga, desenvolvedor de software apaixonado por transformar ideias em soluções tecnológicas robustas e elegantes. Trabalho com JavaScript, TypeScript, React.js, Node.js com Prisma e Next.js, focando sempre em criar aplicações escaláveis, modernas e de alta performance.
 Gosto de estar em constante evolução — aprender novas tecnologias, experimentar ferramentas e contribuir para projetos que tenham impacto real. Além do código, também tenho um pé no design gráfico, o que me ajuda a criar experiências visuais mais refinadas e funcionais.
