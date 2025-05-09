@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Erivaldo+Cazinga;Sou+um+Desenvolvedor+de+Software;Especializando-me+em+JavaScript+e+TypeScript)](https://git.io/typing-svg)
 
-🚀Sobre Mim
-
-Olá! Sou o Erivaldo Cazinga, desenvolvedor de software apaixonado por transformar ideias em soluções tecnológicas robustas e elegantes. Trabalho com JavaScript, TypeScript, React.js, Node.js com Prisma e Next.js, focando sempre em criar aplicações escaláveis, modernas e de alta performance.
+# Sobre Mim 🚀
+Olá! Sou o Erivaldo Cazinga, desenvolvedor de software apaixonado por transformar ideias em soluções tecnológicas robustas e elegantes. Trabalho com <strong>JavaScript, TypeScript, React.js, Node.js com Prisma e Next.js</strong>, focando sempre em criar aplicações escaláveis, modernas e de alta performance.
 Gosto de estar em constante evolução — aprender novas tecnologias, experimentar ferramentas e contribuir para projetos que tenham impacto real. Além do código, também tenho um pé no design gráfico, o que me ajuda a criar experiências visuais mais refinadas e funcionais.
 Orgulhosamente faço parte da comunidade tech de Angola e estou sempre aberto a colaborar com projetos desafiadores e inovadores.
 
@@ -15,7 +14,6 @@ Orgulhosamente faço parte da comunidade tech de Angola e estou sempre aberto a 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-054F77?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Habilidades de Backend  
